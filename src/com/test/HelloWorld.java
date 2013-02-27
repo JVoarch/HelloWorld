@@ -27,6 +27,7 @@ public class HelloWorld {
         System.out.println("Fetch 2");
         System.out.println("Fetch 3");
         System.out.println("~~~~@#@");
+        System.out.println("Merge conflict 1");
 	}
 
 }
