@@ -26,7 +26,7 @@ public class HelloWorld {
         System.out.println("Fetch this");
         System.out.println("Fetch 2");
         System.out.println("Fetch 3");
-        System.out.println("BlahBlah@~");
+        System.out.println("~~~~@#@");
 	}
 
 }
